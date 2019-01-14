@@ -10,4 +10,5 @@ below, only the second cell is filled, and so the agent must select any of the o
 
 ## Related blogposts:
 This tutorial accompanies the following blogposts:
-* [Qrash Course: Reinforcement Learning 101 & Deep Q Networks in 10 Minutes](https://towardsdatascience.com/qrash-course-deep-q-networks-from-the-ground-up-1bbda41d3677)
+* [Qrash Course: Reinforcement Learning 101 & Deep Q Networks in 10 Minutes](https://medium.com/@shakedzy/qrash-course-deep-q-networks-from-the-ground-up-1bbda41d3677)
+* [Lessons Learned from Tic-Tac-Toe: Practical Reinforcement Learning Tips](https://medium.com/@shakedzy/lessons-learned-from-tic-tac-toe-practical-reinforcement-learning-tips-5cac654a45a8)
