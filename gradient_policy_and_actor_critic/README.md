@@ -1,6 +1,6 @@
 # Gradient Policy and Actor-Critic
 
-This notebooks contains implementations of the following Reinforcemnt Learning algorithms:
+These notebooks contains implementations of the following Reinforcemnt Learning algorithms:
 
 * Policy Gradient
 * Actor-Critic
